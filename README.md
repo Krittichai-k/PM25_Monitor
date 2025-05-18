@@ -11,15 +11,10 @@ A simple air quality monitoring system that uses an ESP32 microcontroller and a 
 : LCD1602 Display with I2C Module  
 -----------------------------------
 
----
-
-## 📷 Preview
-(Add image or diagram here)
 
 ## ⚙️ Features
 - Real-time PM2.5 data monitoring
 - Display data on LCD1602
-- Expandable for Wi-Fi, cloud logging, or mobile alerts
 
 ## 🚀 How to Use
 1. Connect components according to the wiring diagram
